@@ -1,0 +1,31 @@
+#all {
+    background: linear-gradient(145deg, #3F3F3F, #1C1C1C);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.login-container {
+    background-color: #f4f2ee;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+    width: 100%;
+    max-width: 400px;
+}
+
+.form-control {
+    background-color: #D0E8FF;
+    border: 1px solid #C5C6D0;
+    color: #1C1C1C;
+}
+
+.btn-primary {
+    background-color: #0A66C2;
+    border: none;
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: #005B9A;
+}
